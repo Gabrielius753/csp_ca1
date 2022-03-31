@@ -6,6 +6,21 @@ li{
 }
 nav{
     display:inline-block;
-    border:1px solid #000;
+    border:1px solid black;
     padding:20px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #ddd;
 }

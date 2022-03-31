@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+li{
+    text-align: left;
+}
+nav{
+    display:inline-block;
+    border:1px solid #000;
+    padding:20px;
+}

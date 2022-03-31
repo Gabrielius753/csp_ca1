@@ -8,6 +8,7 @@ nav{
     display:inline-block;
     border:1px solid black;
     padding:20px;
+    background-color: aliceblue;
 }
 table{
     margin-left: auto;
@@ -23,4 +24,7 @@ th, td{
 }
 tr:nth-child(even){
     background-color: #ddd;
+}
+h1,header{
+    -moz-text-decoration-line: underline;
 }
